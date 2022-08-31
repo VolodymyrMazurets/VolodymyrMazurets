@@ -1,4 +1,6 @@
-### Hi there 👋
+### 👋 Hi everyone!
+
+- ⚡ Fun fact: Sometimes it pays to stay in bed on Monday, rather than spending the rest of the week debugging Monday's code.
 
 <!--
 **VolodymyrMazurets/VolodymyrMazurets** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
